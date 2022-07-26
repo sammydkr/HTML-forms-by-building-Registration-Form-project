@@ -1,0 +1,4 @@
+<fieldset>
+        <label><input type="file" />Upload a profile picture:</label>
+
+      </fieldset>
