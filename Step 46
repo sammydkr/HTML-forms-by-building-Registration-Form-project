@@ -1,0 +1,5 @@
+.inline{
+width:unset;
+margin:0;
+margin-right: 0.5 em;
+}
