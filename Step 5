@@ -1,4 +1,7 @@
-<body>
-    <h1>Registration Form</h1>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
 
-  </body>
+    <meta charset="UTF-8">
+    
+  </head>
